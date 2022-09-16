@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the requirements for the final paper proposal and
+  for the final paper.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
